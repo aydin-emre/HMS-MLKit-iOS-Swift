@@ -1,0 +1,20 @@
+PODS:
+  - AGConnectCore (1.1.0.300):
+    - HMFoundation (~> 1.1.0)
+  - HMFoundation (1.1.0.300)
+
+DEPENDENCIES:
+  - AGConnectCore
+
+SPEC REPOS:
+  trunk:
+    - AGConnectCore
+    - HMFoundation
+
+SPEC CHECKSUMS:
+  AGConnectCore: 9884a3fddf1960747eaf0a115362a1484d7149b1
+  HMFoundation: 4795c37d29edbccb3e2d04afb08ce5587aae0685
+
+PODFILE CHECKSUM: 0c81276deea3f7bde493c67b581fc2cdb59c31fa
+
+COCOAPODS: 1.10.0.beta.2

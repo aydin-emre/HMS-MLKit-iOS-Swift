@@ -1,0 +1,6 @@
+framework module Pods_HMSMLKit {
+  umbrella header "Pods-HMSMLKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

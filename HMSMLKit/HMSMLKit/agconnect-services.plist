@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>code</key>
+        <dict>
+            <key>code1</key>
+            <string>11A9EB9EF78C7028668B0B2E615FF91F</string>
+            <key>code2</key>
+            <string>B62C2BCF9B72560C9EDB30C9DAA3F66E</string>
+            <key>code3</key>
+            <string>F48F0C7D925EE890ED3A4B01A4C10D5D</string>
+            <key>code4</key>
+            <string>887274DDDFED1CF1A0C57CF3195B2B1B</string>
+        </dict>
+        <key>client</key>
+        <dict>
+            <key>cp_id</key>
+            <string>890090000023105926</string>
+            <key>product_id</key>
+            <string>736430079244642307</string>
+            <key>client_id</key>
+            <string>456454068118750400</string>
+            <key>client_secret</key>
+            <string>[!008E5BB98BF59965BF24E53E0710BA504A0D8019757D82B6BC2002BE388592975070946AA81B3A6B4E40E38E19A38FA0AFA131F20CAAF8F083173F6ED146A26B9A1E8AE7CB09FD57386E3E9C551001CD42823BC7FEADD8781637EEB90685EB0B85]</string>
+            <key>app_id</key>
+            <string>9105385871710905156</string>
+            <key>package_name</key>
+            <string>com.ea.HMSMLKit</string>
+            <key>api_key</key>
+            <string>CgB6e3x91ZiAYRsHTHd2Z15KExmAMwg0+kNz1FsaleUaaD6Jfyhsiw1FYG62DyKsVtGL92C7Kmwl4QUmcZtsyF66</string>
+        </dict>
+        <key>service</key>
+        <dict/>
+    </dict>
+</plist>
